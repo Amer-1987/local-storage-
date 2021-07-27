@@ -1,0 +1,98 @@
+img{
+    float: right;
+    width: 22%;
+    height: 300px;
+    margin-right: 20px;
+    /* margin-left: 20px; */
+  }
+
+
+  /* parent{
+    width: 30%; */
+  
+
+  div{
+   padding-left: 100px;
+  }
+  
+  body{
+    background-color: whitesmoke;
+    font-family: Times , Verdana, serif;
+
+  }
+
+
+  
+  ul{
+    margin-top: 190px;
+position: absolute;
+  }
+  
+  li{
+      width: 100%;
+    margin-top: 12px;
+    list-style-type:circle ;
+    color: rgb(15, 85, 15);
+    font-weight: bold;
+    background-color: rgb(217, 240, 116);
+    font-size: 18px;
+
+  }
+
+h1{
+      float: left;
+      /* background-color: chartreuse; */
+      width: 70%;
+      font-size:xx-large ;
+      color: blue;
+      margin-left: 50px;
+      margin-top: 30px;
+      font-weight: bolder;
+      font-family: "Sofia", sans-serif;
+  }
+
+.logo{
+      /* background-color: chocolate; */
+  float: left;
+  width: 10%;
+  height: 100px;
+
+}
+
+button{
+  position:absolute ;
+  top: 18%;
+  left: 3%;
+  /* float: left; */
+  width: 10%;
+  height: 25px;
+  background-color: rgb(238, 187, 45);
+  color: rgb(5, 5, 5);
+  font-weight: bolder;
+  margin-left: 110px;
+}
+
+p{
+      float: right;
+      width: 67%;
+      color: #000;
+      text-align:justify ;
+      font-weight:normal ;
+      font-size: 150%;
+      margin-right: 20px;
+      margin-bottom: 200px;
+
+  }
+  .bar1{
+    width: 100%;
+    height: 15px;
+    margin-bottom: 50px;
+  }
+
+
+
+#myChart{
+  width: 60%;
+  margin-right: 70px;
+
+}
